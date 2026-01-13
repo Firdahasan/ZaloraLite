@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ZaloraLite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="brand_name">BRAND NAME</string>
+    <string name="product_name_example">Product Name Example</string>
+    <string name="rp_299_000">Rp 299.000</string>
+    <string name="daftar_akun">DAFTAR AKUN</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="sudah_punya_akun_login_di_sini">Sudah punya akun? Login di sini</string>
+    <string name="zalora_lite">ZALORA LITE</string>
+    <string name="masuk_ke_akun_anda">Masuk ke akun Anda</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="masuk">MASUK</string>
+    <string name="belum_punya_akun_daftar_sekarang">Belum punya akun? Daftar Sekarang</string>
+    <string name="koleksi_terbaru">KOLEKSI TERBARU</string>
+    <string name="nama_produk">Nama Produk</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="akun_saya">AKUN SAYA</string>
+    <string name="memuat_nama">Memuat nama...</string>
+    <string name="memuat_email">Memuat email...</string>
+    <string name="keluar">KELUAR</string>
+    <string name="tas_belanja">TAS BELANJA</string>
+    <string name="checkout_sekarang">CHECKOUT SEKARANG</string>
+    <string name="total_format">Total: %1$s</string>
+    <string name="wishlist_saya">WISHLIST SAYA</string>
+    <string name="brand_name_detail">BRAND NAME</string>
+    <string name="nama_produk_lengkap">Nama Produk Lengkap</string>
+    <string name="rp_0_detail">Rp 0</string>
+    <string name="deskripsi_produk">Deskripsi Produk</string>
+    <string name="keterangan_detail_mengenai_produk_ini_akan_ditampilkan_di_sini_menggunakan_bahan_berkualitas">Keterangan detail mengenai produk ini akan ditampilkan di sini. Menggunakan bahan berkualitas...</string>
+    <string name="tambah_ke_tas">TAMBAH KE TAS</string>
+</resources>

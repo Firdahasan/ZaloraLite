@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013095206218",
+    "project_id": "zaloraliteapp",
+    "storage_bucket": "zaloraliteapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013095206218:android:533a62d11dbd9e3cc205b3",
+        "android_client_info": {
+          "package_name": "com.zaloralite.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WupOMWtgdljJCvpK9pfStY8_72SK11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
