@@ -1,0 +1,132 @@
+{
+  "Products": {
+    "prod_001": {
+      "id": "prod_001",
+      "name": "Kemeja Linen Lengan Panjang",
+      "brand": "ZALORA BASIC",
+      "price": 249000,
+      "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&q=80",
+      "description": "Kemeja linen berkualitas tinggi dengan potongan slim fit."
+    },
+    "prod_002": {
+      "id": "prod_002",
+      "name": "Sepatu Sneakers Olive Green",
+      "brand": "New Balance",
+      "price": 1100000,
+      "imageUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80",
+      "description": "Sneakers Olive Green yang cocok untuk segala acara."
+    },
+    "prod_003": {
+      "id": "prod_003",
+      "name": "Kemeja Resort Bergaris",
+      "brand": "WOOD",
+      "price": 200000,
+      "imageUrl": "https://dynamic.zacdn.com/iLtdiLGf47fQdFoPaOyVwr8GM28=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/wood-9814-8000484-1.jpg",
+      "description": "Kemeja Resort Bergaris dengan Potongan Santai."
+    },
+    "prod_004": {
+      "id": "prod_004",
+      "name": "Ransel Herschel Classic",
+      "brand": "HERSCHEL",
+      "price": 940000,
+      "imageUrl": "https://dynamic.zacdn.com/b6NZJ1CbBc86dcpf3xWNFFpbn-k=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/herschel-8140-3188615-1.jpg",
+      "description": "Tas ransel tahan lama untuk kebutuhan harian."
+    },
+    "prod_005": {
+      "id": "prod_005",
+      "name": "Celana Pendek Chinos SlimFit Beige OXCON",
+      "brand": "Oxcon",
+      "price": 185000,
+      "imageUrl": "https://dynamic.zacdn.com/gIbywr9ONOtSa3pnxouputeh1lg=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/oxcon-0935-5818224-1.jpg",
+      "description": "Celana chino nyaman untuk gaya smart casual."
+    },
+    "prod_006": {
+      "id": "prod_006",
+      "name": "Celana Jeans Slim Straight High",
+      "brand": "LEVIS",
+      "price": 999000,
+      "imageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500",
+      "description": "Celana jeans legendaris yang tidak pernah lekang oleh waktu."
+    },
+    "prod_007": {
+      "id": "prod_007",
+      "name": "Kaos Katun Putih Polos",
+      "brand": "UNIQLO",
+      "price": 149000,
+      "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+      "description": "Kaos basic dari katun pilihan, lembut dan menyerap keringat."
+    },
+    "prod_008": {
+      "id": "prod_008",
+      "name": "Jam Tangan Chronograph",
+      "brand": "FOSSIL",
+      "price": 1850000,
+      "imageUrl": "https://cdn.getswift.asia/unsafe/658x658/filters:format(webp):quality(80)/https://backoffice.fossil.co.id/media/catalog/product/cache/8df8518707b690ee19bcaa9e2c3f0ede/f/s/fs4812_1_1.jpg",
+      "description": "Jam tangan mewah dengan strap kulit asli dan fitur stopwatch."
+    },
+    "prod_009": {
+      "id": "prod_009",
+      "name": "Kacamata Hitam Aviator",
+      "brand": "RAY-BAN",
+      "price": 2300000,
+      "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500",
+      "description": "Kacamata hitam gaya aviator untuk perlindungan UV maksimal."
+    },
+    "prod_010": {
+      "id": "prod_010",
+      "name": "Blazer Formal Pria Slim Fit",
+      "brand": "H&M",
+      "price": 799000,
+      "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=500",
+      "description": "Blazer dengan potongan modern untuk menunjang penampilan profesional Anda."
+    },
+    "prod_011": {
+      "id": "prod_011",
+      "name": "Sepatu Loafers Kulit",
+      "brand": "CLARKS",
+      "price": 1450000,
+      "imageUrl": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=500",
+      "description": "Sepatu formal tanpa tali dengan kenyamanan sol dalam yang empuk."
+    },
+    "prod_012": {
+      "id": "prod_012",
+      "name": "Hoodie Oversize Grey",
+      "brand": "H&M",
+      "price": 399000,
+      "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500",
+      "description": "Hoodie katun dengan potongan oversize untuk gaya streetwear."
+    },
+    "prod_013": {
+      "id": "prod_013",
+      "name": "Dompet Kulit Bifold",
+      "brand": "BRAUN BUFFEL",
+      "price": 1200000,
+      "imageUrl": "https://media.karousell.com/media/photos/products/2023/6/11/braun_buffel_bifold_wallet_1686498758_b5bac502_progressive.jpg",
+      "description": "Dompet kulit premium dengan banyak slot kartu."
+    },
+    "prod_014": {
+      "id": "prod_014",
+      "name": "Jaket Kulit",
+      "brand": "ZALORA BASIC",
+      "price": 499000,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
+      "description": "Jaket kulit yang berkualitas."
+    },
+    "prod_015": {
+      "id": "prod_015",
+      "name": "Topi Santai",
+      "brand": "NEW ERA",
+      "price": 399000,
+      "imageUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500",
+      "description": "Topi santai sangat cocok digunakan di saat udara panas."
+    },
+    "prod_016": {
+      "id": "prod_016",
+      "name": "Sepatu Slip-on Canvas",
+      "brand": "VANS",
+      "price": 849000,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-124212092/vans_vans_ua_classic_slip-on_-_black_-_white_checkcerboad-white_-vn000eyebww-_full01_rx4s45uv.jpg?w=1200",
+      "description": "Sepatu kanvas praktis dengan desain checkerboard yang legendaris."
+    }
+  }
+}
