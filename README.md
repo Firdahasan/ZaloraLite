@@ -1,9 +1,11 @@
 Nama: Firda Hasan
 Nim: 2304411589
+Kelas: 5J RPL 2
+Link github: https://github.com/Firdahasan/ZaloraLite.git
 
-Tema: ZaloraLite
+Tema Aplikasi: ZaloraLite (aplikasi sederhana dan ringan untuk digunakan)
 Aplikasi rujukan: Zalora
-Fitur yang dibuat: Login, Daftar, Menu Home, Menu Tas, Menu Wishlist, Menu Akun Saya
+Fitur yang dibuat: Daftar, Login, Menu Home, Menu Tas, Menu Wishlist, Menu Akun Saya
 
 Cara menjalankan aplikasi:
 1. Buat akun terlebih dahulu
